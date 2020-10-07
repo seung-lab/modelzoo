@@ -4,3 +4,5 @@
 
 ### Inference parameters
 * 20% overlap (i.e. stride = 154 x 154 x 14)
+* Connected components threshold: 0.27
+* Object size threshold: 40
